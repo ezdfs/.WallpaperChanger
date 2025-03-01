@@ -52,6 +52,11 @@ Alternatively, use the interactive menu by running:
 - Command(find the directory where scripts are in your machine): ~/.WallpaperChanger/changer.sh
 - Description(Optional): Wallpaper Changer
 
+![Screenshot from 2025-03-01 15-18-32](https://github.com/user-attachments/assets/8e4be4a7-90d6-4957-ad29-d661bee32aa7)
+![Screenshot from 2025-03-01 14-20-11](https://github.com/user-attachments/assets/08b326c5-ad30-4aa1-a635-659271488ab9)
+![Screenshot from 2025-03-01 14-21-33](https://github.com/user-attachments/assets/7e72ab05-484d-4d72-9eb6-49749135e827)
+
+
 ## Notifications
 
 If an error occurs, the script will notify the user:

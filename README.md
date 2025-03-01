@@ -52,11 +52,6 @@ Alternatively, use the interactive menu by running:
 - Command(find the directory where scripts are in your machine): ~/.WallpaperChanger/changer.sh
 - Description(Optional): Wallpaper Changer
 
-![image](https://github.com/user-attachments/assets/c48c0287-aa0f-4d8d-a972-951981976ec7)
-
-![image](https://github.com/user-attachments/assets/6ef6bb25-46e3-4e47-b8d3-670782ccddad)
-
-
 ## Notifications
 
 If an error occurs, the script will notify the user:
@@ -72,4 +67,4 @@ If an error occurs, the script will notify the user:
 
 ## License
 
-This project is licensed under the GNU Licenses.
+This project is licensed under the GPL Licenses.

@@ -49,7 +49,7 @@ Alternatively, use the interactive menu by running:
 ## Usage: add in startup application
 
 - Name: Wallpaper Changer
-- Command(find the directory where scripts are in your machine): /home/seu-usuario/.WallpaperChanger/changer.sh
+- Command(find the directory where scripts are in your machine): /home/your-user/.WallpaperChanger/changer.sh
 - Description(Optional): Wallpaper Changer
 
 ![Screenshot from 2025-03-01 15-18-32](https://github.com/user-attachments/assets/8e4be4a7-90d6-4957-ad29-d661bee32aa7)
